@@ -1,8 +1,8 @@
 {
   "name": "auto-avatars",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Add-on for Thunderbird that automatically populates contact photos with their Libravatar or Gravatar photo.",
-  "homepage": "https://gitlab.com/Elypia/auto-avatars",
+  "homepage": "https://gitlab.com/SethFalco/auto-avatars",
   "author": "Seth Falco",
   "private": true,
   "license": "MIT",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/Elypia/auto-avatars.git"
+    "url": "git+https://gitlab.com/SethFalco/auto-avatars.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/Elypia/auto-avatars/issues"
+    "url": "https://gitlab.com/SethFalco/auto-avatars/issues"
   },
   "scripts": {
     "build": "rm -f web-ext-artifacts/*.zip && web-ext build -s src",

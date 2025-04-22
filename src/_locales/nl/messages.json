@@ -16,7 +16,7 @@
     "description": "Name of the author of the extension."
   },
   "extensionHomePageUrl": {
-    "message": "https://gitlab.com/Elypia/auto-avatars",
+    "message": "https://gitlab.com/SethFalco/auto-avatars",
     "description": "Homepage of the extension."
   },
   "autoavatars.options.setup": {

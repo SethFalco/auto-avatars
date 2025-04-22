@@ -3,10 +3,14 @@
   "name": "__MSG_extensionName__",
   "short_name": "__MSG_extensionShortName__",
   "description": "__MSG_extensionDescription__",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "__MSG_extensionAuthor__",
   "default_locale": "en_US",
   "homepage_url": "__MSG_extensionHomePageUrl__",
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
   "browser_specific_settings": {
     "gecko": {
       "id": "auto-avatars@falco.fun",

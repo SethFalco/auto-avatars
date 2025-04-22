@@ -12,7 +12,7 @@ Thanks for taking the time to contribute to the project!
 Clone the repository with Git.
 
 ```sh
-git clone https://github.com/Elypia/auto-avatars.git
+git clone https://gitlab.com/SethFalco/auto-avatars.git
 ```
 As this is a JavaScript project and uses NPM for package management, start by installing development and test dependencies.
 

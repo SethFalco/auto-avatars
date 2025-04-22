@@ -1,6 +1,6 @@
 # Auto Avatars
 
-[![Build status](https://gitlab.com/Elypia/auto-avatars/badges/main/pipeline.svg)](https://gitlab.com/Elypia/auto-avatars/commits/main)
+[![Build status](https://gitlab.com/SethFalco/auto-avatars/badges/main/pipeline.svg)](https://gitlab.com/SethFalco/auto-avatars/commits/main)
 
 ## About
 
@@ -10,7 +10,7 @@ You can install it from the [Thunderbird Add-ons](https://addons.thunderbird.net
 
 The primary way to use this extension is to:
 
-1. Navigate to the **Address Book**
+1. Navigate to the **Address Book**.
 2. Either update or create a new contact.
 3. If the contact does not explicitly have an avatar, the add-on will automatically set one on save.
 
@@ -34,9 +34,9 @@ To learn more about and enable federation support, see the [add-on preferences](
 
 ## Why Libravatar
 
-If you've found this extension while looking for a add-on for Gravatar, this will do what you're looking for. However, you might be wondering what [Libravatar](https://www.libravatar.org) is, and why we favor it when it's available.
+If you've found this extension while looking for an add-on for Gravatar, this will do what you're looking for. However, you might be wondering what [Libravatar](https://www.libravatar.org) is, and why we favor it when it's available.
 
-Libravatar is an avatar service similar to Gravatar, except it is community backed, open-source, and federated. Libravatar has a similar user interface and API to Gravatar, while avoiding the problems that stem from centralization.
+Libravatar is an avatar service similar to Gravatar, except it is community backed, Open Source, and federated. Libravatar has a similar user interface and API to Gravatar, while avoiding the problems that stem from centralization.
 
 Many websites use Libravatar already, or support overriding Gravatar with it:
 
